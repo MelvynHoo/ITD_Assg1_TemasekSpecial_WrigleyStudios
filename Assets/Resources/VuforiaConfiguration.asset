@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: VuforiaConfiguration
   m_EditorClassIdentifier: 
   vuforia:
-    vuforiaLicenseKey: 
+    vuforiaLicenseKey: Acnex97/////AAABmf266v4X6kkrhdUqoW1kLcWDGxGf4XjLNVlkrozrEKTUKQkxs2ZeNseZxI0+Jwbdrtl4WADsXOBmUvx7nnmax4Wk0/83SsYPRNTgGKfrlCf+RJyfXh+VPDCIxpZWGc4fEYfBuTaGwLtdW/NucAsSUpdsMF5ZI/8LykHhpesEW3tYC8YouIZZzbYmf2+vnz4EPazuYc67C79fACPFs0GaEXvW5t7VvVAQ39tmWIl9FCxHjaObHpU53WNJIKZxvMkpa8BMnA60YFCBs9t6Mp8Qfnj0n1R0T0H+SKPSI98fkDzCXyuKwzOkZLxxPpguGPNv4v1qnDHs+qiYHck+H6eMuJAiAUleiDyh4OcyRTQMaCM/
     ufoLicenseKey: QWM1NUNSUC8vLy8vQUFBQUtCVnR5TkVqaTA4cmd5aXNJcEM5ZENCRkppQlRNZEQ1OEl5OHVOZFFCbzRPWEVnMHVSWWxiRjJRZHRZYUJlR3B6U0JaOFRRR0VSbm1jak03TnRydVM4cVB1M3BxUmV4SnFJY0M3M3lmUitmQy9tWXJoWW9SeEpQVER6UjN4V3gweEU4MzdCV216UDhIbUNEOTY3Y0tLOHQxd0phcmlzckJwZmYrTVJUazl4ZkdEaXNxM2xScGYzUnpHZ3V0dWRaanFrbWo4YzJOSnJuQTRXZFNYenF0OElkKzlLNS82UTZqTnZhajBzWlExaVlHZXpmZmlzcG1iTmVWcWhXMDBtOHVRZ0JSZmpGQjNtYm14T2xOT0hsV0doUXFCZ3dpcGtZdXFhaDVVeTZ6Tkd5UStLdFd0L0p5cm1CMDJiNW9TSnh5WU9Fa1RaRDVsb1lCdDYyODFXV2dUZ2NkaVEweXd6RkZrNnBZekxCL1dNQ2I=
     delayedInitialization: 0
     cameraFocusModeSetting: 2
@@ -23,7 +23,7 @@ MonoBehaviour:
     modelTargetRecoWhileExtendedTracked: 1
     shareRecordingsInITunes: 1
     logLevel: 0
-    version: 10.3.0
+    version: 10.10.2
     eulaAcceptedVersions: '{"Values":["","0.0","10.10"]}'
   database:
     disableModelExtraction: 1
@@ -33,7 +33,7 @@ MonoBehaviour:
     numDivisions: 2
     videoBackgroundShader: {fileID: 4800000, guid: f40623b353e2f1943b1b3ba42975db7a,
       type: 3}
-    unlitShader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 3}
+    unlitShader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
     videoBackgroundEnabled: 1
   deviceTracker:
     autoStartTracker: 1
@@ -42,7 +42,7 @@ MonoBehaviour:
     thirdPartyARCoreClientDetected: 0
   playmode:
     mSequencePath: Assets/SamplesResources/Recordings/area_target.mp4
-    playModeType: 2
+    playModeType: 0
   webcam:
     renderTextureLayer: 30
   packageInformation:
